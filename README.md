@@ -3,6 +3,9 @@ Experiment_7
 ## AIM
 To study use of and to implement arrays and strings in C++.
 
+## Software used
+VScode,Dev C++
+
 ## Theory
 
 ### Arrays in C++
@@ -149,6 +152,9 @@ Algorithm:
 3.	Append each character to reversed.
 4.	Print or return the reversed string.
 5.	End Program
+
+### Conclusion:
+From This experiment We have learned and understand the arrays declaration,initialization and operations and strings declaration initialization and operation in the programs.
 
 
 
